@@ -30,7 +30,7 @@ The algorithm also checks for problems with the provided NFA, such as an invalid
 
 I did not make a command line interface or JAR file or anything like that because this was a uni project and I can't be bothered.
 
-1. Import the project to your Java editor.
+1. Import the project to your favourite Java IDE.
 2. Copy the input file in the project folder.
 3. Change the file name in Task2.java.
 4. Run.
