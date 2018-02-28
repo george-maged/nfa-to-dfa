@@ -25,3 +25,12 @@ The output is printed in the console after the NFA is converted to the DFA and t
 As mentioned before for each input string it prints either **"ACCEPTED"** or **"REJECTED"**.
 
 The algorithm also checks for problems with the provided NFA, such as an invalid transition, accept state, initial state or input string.
+
+## How to use it
+
+I did not make a command line interface or JAR file or anything like that because this was a uni project and I can't be bothered.
+
+1. Import the project to your Java editor.
+2. Copy the input file in the project folder.
+3. Change the file name in Task2.java.
+4. Run.
